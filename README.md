@@ -1,0 +1,2 @@
+# collegeduniya_scraper
+scrape_data_of_punr
